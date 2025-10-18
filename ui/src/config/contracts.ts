@@ -1,5 +1,5 @@
 export const vaultContract = {
-  address: (import.meta.env.VITE_VAULT_CONTRACT_ADDRESS || '') as string,
+  address: "0xe78DDFAa1d26e2C305460873895168f39dDe68c2",
   abi: [
     {
       inputs: [],
